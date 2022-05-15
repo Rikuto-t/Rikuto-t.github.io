@@ -1,0 +1,16 @@
+current directory: /Users/rikuto/repos/Rikuto-t.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/rikuto/.rbenv/versions/2.7.6/bin/ruby -I /Users/rikuto/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20220514-10737-16gia1p.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rikuto/repos/Rikuto-t.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/rikuto/repos/Rikuto-t.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/rikuto/repos/Rikuto-t.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20220514-10737-jitx1z
